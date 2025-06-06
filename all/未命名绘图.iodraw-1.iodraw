@@ -25,9 +25,6 @@
             <mxPoint x="240" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qfylf8k69DzBSfGI2u59-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qfylf8k69DzBSfGI2u59-7" target="qfylf8k69DzBSfGI2u59-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="qfylf8k69DzBSfGI2u59-7" value="&lt;div&gt;计算公式&lt;/div&gt;(weight * sp / 5 )&amp;lt;= reDistance&lt;div&gt;若成立，ruturn 1;&lt;/div&gt;&lt;div&gt;否则，reyurn 0.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="240" width="180" height="70" as="geometry" />
         </mxCell>
@@ -37,8 +34,11 @@
             <mxPoint x="240" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qfylf8k69DzBSfGI2u59-10" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="395" width="120" height="60" as="geometry" />
+        <mxCell id="qfylf8k69DzBSfGI2u59-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="170" as="sourcePoint" />
+            <mxPoint x="240" y="120" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
