@@ -10,6 +10,9 @@
         <mxCell id="qfylf8k69DzBSfGI2u59-3" value="向屏幕输出&quot;可以刹车&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="440" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qfylf8k69DzBSfGI2u59-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qfylf8k69DzBSfGI2u59-4" target="qfylf8k69DzBSfGI2u59-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qfylf8k69DzBSfGI2u59-4" value="输入此时飞机的速度和剩余跑道长度&lt;div&gt;调用CanBrake()函数&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="150" width="120" height="60" as="geometry" />
         </mxCell>
@@ -73,8 +76,8 @@
         <mxCell id="qfylf8k69DzBSfGI2u59-25" value="-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="407" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qfylf8k69DzBSfGI2u59-26" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="370" width="60" height="30" as="geometry" />
+        <mxCell id="qfylf8k69DzBSfGI2u59-27" value="" style="triangle;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="140" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
